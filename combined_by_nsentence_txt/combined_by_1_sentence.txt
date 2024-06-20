@@ -189,4 +189,4 @@ This is because the deep learning model has an attention layer.
 So it can capture the contribution of the different words to this prediction.
 And actually, this demo is very cool, because you can cross the different words and see how the emojis change when you remove some words.
 So this is working pretty well.
-And there are other models that are similar to this one that also work pretty well for tech sentiment analysis."
+And there are other models that are similar to this one that also work pretty well for tech sentiment analysis.
