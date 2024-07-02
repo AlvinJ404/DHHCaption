@@ -21,13 +21,16 @@ def predict(text):
     return completion
 
 def main():
-    with open('combined_by_nsentence_txt/combined_by_1_sentence.txt', 'r') as f:
+    with open('by_word_original/6_sentence_original.txt', 'r') as f: # original text file here
         sentences = f.readlines()
     
-    with open('combined_by_nsentence_result/combined_by_1_sentence_result.txt', 'a', encoding='utf-8') as file:
+    with open('by_sentence_summary/6_sentence_summary/6_sentence_summary.txt', 'a', encoding='utf-8') as file: # summary text file here
+        iteration = 1
         for sentence in sentences:
             completion = predict(sentence).choices[0].message.content
             print(completion)
+            iteration += 1
+            print('\n' + 'iteration: ' + str(iteration) + '\n')
             file.write(completion + '\n')
 
 if __name__ == '__main__':
