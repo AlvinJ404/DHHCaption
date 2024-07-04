@@ -5938,63 +5938,63 @@ Total sentences: 1
 Total syllables: 36
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: It is less favored, but the notion of continuous dimensions is to mark based on valence, which merely gauges if
-Level: 10-20
+Level: 1
 FRE: 18.4
 Total words: 21
 Total sentences: 1
 Total syllables: 33
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: Less popular, but continuous dimensions aim to label by valence, measuring whether
-Level: 20-30
+Level: 2
 FRE: 25.6
 Total words: 15
 Total sentences: 1
 Total syllables: 23
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: It is less common, but continuous dimensions aim to classify by valence, evaluating if
-Level: 30-40
+Level: 3
 FRE: 31.8
 Total words: 17
 Total sentences: 1
 Total syllables: 25
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: It is less common; continuous dimensions label by valence, assessing if
-Level: 40-50
+Level: 4
 FRE: 44.2
 Total words: 15
 Total sentences: 1
 Total syllables: 22
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: It’s less favored; continuous dimensions tag by valence, which gauges if
-Level: 50-60
+Level: 5
 FRE: 52.4
 Total words: 14
 Total sentences: 1
 Total syllables: 19
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: Though less popular, continuous dimensions use valence to measure whether
-Level: 60-70
+Level: 6
 FRE: 63.2
 Total words: 13
 Total sentences: 1
 Total syllables: 17
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: It's less common; continuous dimensions use valence to gauge whether
-Level: 70-80
+Level: 7
 FRE: 71.1
 Total words: 13
 Total sentences: 1
 Total syllables: 16
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: It’s less favored; continuous dimensions employ valence to assess if
-Level: 80-90
+Level: 8
 FRE: 83.5
 Total words: 12
 Total sentences: 1
 Total syllables: 14
 Original sentence: it's less popular. But the idea of the continuous dimensions is to label according to valence, which is is a dimension that just measures whether
 Summary: It’s less popular; continuous dimensions use valence to see if
-Level: 90-100
+Level: 9
 FRE: 91.2
 Total words: 12
 Total sentences: 1
